@@ -1,0 +1,18 @@
+pwd -
+ls  -
+cd  -
+cd . -
+cd .. -
+cv -
+mv -
+mkidr -
+rm -
+top 
+tail -
+head -
+man -
+grep -
+def -
+comm -
+find - 
+touch -
